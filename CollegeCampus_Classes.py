@@ -19,7 +19,7 @@ class Student(Upenn):
         return str(Upenn.getInfo(self)) + " She is studying " + self.major + " and will be graduating in " + self.gradyear
 
 def main():
-    shilpa = Student("Shilpa", "732-979-7459", "7677", "Student", "Computer Science", "2018")
+    shilpa = Student("Shilpa", "123-979-7679", "9705", "Student", "Computer Science", "2018")
     print shilpa.__str__()
 
 main()
