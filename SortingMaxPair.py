@@ -29,6 +29,7 @@ def lrg_Sm_sm(lst):
 
     while srtlst > 0: 
         bigpair = (srtlst.pop(0), srtlst.pop())
+        smpair = (srtlst)
         return bigpair
 
 lst = [3, 1, 5, 9]
