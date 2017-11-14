@@ -1,3 +1,3 @@
-# Algorithms
+# Problem Solving W/ Data Structures & Algorithms
 
-Various algorithm problems for practice
+
